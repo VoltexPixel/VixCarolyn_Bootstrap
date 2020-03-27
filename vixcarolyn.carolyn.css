@@ -1,5 +1,5 @@
 /*!
- * PonyICU Bootstrap - Carolyn Carino Theme (2020-03-02)
+ * PonyICU Bootstrap - Carolyn Carino Theme (2020-03-27)
  * Copyright 2020 Voltex Pixel (https://voltexpixel.com/)
  * Carolyn Carino on Vix & Carolyn: https://vc.pony.icu/carolyn.html
  * Based on Stylish Portfolio
@@ -425,4 +425,20 @@ a:hover, a:focus, a:active {
 
 .text-primary {
   color: #e0a800 !important;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent; 
+}
+
+::-webkit-scrollbar-thumb {
+  background: #FFF467; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #EBE263; 
 }

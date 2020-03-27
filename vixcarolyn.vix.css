@@ -1,5 +1,5 @@
 /*!
- * PonyICU Bootstrap - Vix Scala Theme (2020-03-02)
+ * PonyICU Bootstrap - Vix Scala Theme (2020-03-27)
  * Copyright 2020 Voltex Pixel (https://voltexpixel.com/)
  * Vix Scala on Vix & Carolyn: https://vc.pony.icu/vix.html
  * Based on Stylish Portfolio
@@ -426,4 +426,20 @@ a:hover, a:focus, a:active {
 
 .text-primary {
   color: #4b70c1 !important;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent; 
+}
+
+::-webkit-scrollbar-thumb {
+  background: #5f80cd; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #4b70c1; 
 }
