@@ -1,7 +1,7 @@
 /*!
- * PonyICU Bootstrap - Vix Scala Theme (2020-03-27)
+ * Vix & Carolyn Bootstrap - Vix Scala Theme (2020-05-31)
  * Copyright 2020 Voltex Pixel (https://voltexpixel.com/)
- * Vix Scala on Vix & Carolyn: https://vc.pony.icu/vix.html
+ * Vix & Carolyn: https://vixandcarolyn.voltexpixel.com/
  * Based on Stylish Portfolio
  */
 /*!
@@ -136,6 +136,9 @@ h6 {
   background-repeat: no-repeat;
   background-size: cover;
   z-index: -1;
+  display: -ms-flexbox;
+  display: flex;
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
 }
 
 .masthead video {
